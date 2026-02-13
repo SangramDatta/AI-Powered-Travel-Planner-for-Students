@@ -141,11 +141,7 @@ def main():
     
         #removed resume section here
         
-        st.write("Social Link:")
-        st.markdown("**LinkedIN Profle link:** https://www.linkedin.com/in/puneethkumarms")
-        st.markdown("**Github Profile link:** https://github.com/PuneethKumarMS")
-        st.subheader("Contact Information")
-        st.markdown("**Email:** [puneethkumarms21@gmail.com](mailto:puneethkumarms21@gmail.com)")
+        
         
 if __name__ == "__main__":
     main()
